@@ -7,7 +7,6 @@
 #include <string>
 using namespace NetZeroSpace;
 
-//g++ node.h node.cpp llist.h llist.cpp bintree.h bintoarray.h NetZeroEnergy.h NetZeroEnergy.cpp NetZeroMain.cpp
 int main()
 {
       NetZeroEnergy* example=new NetZeroEnergy();
