@@ -3,7 +3,7 @@
 
 This coding project was made from the 'Net Zero Energy' project. This is meant as an interactive report
 from its information. Any future interns can improve the code especially if there were changes to the 
-project. 
+project. Any questions with the numbers can be answered by looking at the comments in the code.
 
 Below are the screenshots of one run of the program:
 
