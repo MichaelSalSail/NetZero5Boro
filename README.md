@@ -5,7 +5,7 @@ This coding project was made from the 'Net Zero Energy' project. This is meant a
 from its information. Any future interns can improve the code especially if someone made changes to the 
 project. Any questions with the numbers can be answered by looking at the comments in the code.
 
-Below are screenshots of one run of the program:
+Below are screenshots from one program run:
 
 ![Part 1 of 5](/Project-Output-1.png)
 ![Part 2 of 5](/Project-Output-2.png)
