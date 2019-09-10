@@ -12,6 +12,6 @@ add_library(NetZeroEnergy NetZeroEnergy.cpp ${HEADER_FILES})
 
 add_executable(NetZeroMain NetZeroMain.cpp ${HEADER_FILES})
 
-target_link_libraries(NetZeroMain node llist bintree bintoarray NetZeroEnergy)
+target_link_libraries(NetZeroMain node llist bintree.h bintoarray.h NetZeroEnergy)
 
 target_compile_options(NetZeroMain PRIVATE -std=c++0x -g -Wall)
